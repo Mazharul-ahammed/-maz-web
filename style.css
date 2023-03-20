@@ -1,0 +1,14 @@
+h1{
+    font-size: 40px;
+  
+}
+span{
+    color: rgb(6, 249, 168);
+}
+.half-width{
+width: 50%;
+float: left;
+}
+.half-width img{
+    width: 100%;
+}
